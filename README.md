@@ -8,3 +8,5 @@ Conntribute 2 from VerasMayllon
 Alteração feita na branch nova-funcionalidade
 Teste 2
 Nova alteração
+
+### Outra alteração sugerida via fork.
